@@ -1,5 +1,8 @@
 {
   "ARCHITECTURE.whimsical": {
     "default": "toddmoy__whimsical-blocks__full-embed-block"
+  },
+  "DATAMODEL.whimsical": {
+    "default": "toddmoy__whimsical-blocks__full-embed-block"
   }
 }
