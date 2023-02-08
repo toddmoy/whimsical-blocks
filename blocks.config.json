@@ -9,6 +9,15 @@
     "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
   },
   {
+    "type": "file",
+    "id": "full-embed-block",
+    "title": "Full Page Embed",
+    "description": "A full page embed",
+    "entry": "blocks/full-page-embed/index.tsx",
+    "matches": ["*"],
+    "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
+  },
+  {
     "type": "folder",
     "id": "folder-block",
     "title": "Example Folder Block",
